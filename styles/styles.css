@@ -127,7 +127,7 @@
         height: 2vw;
     }
 
-    @media (min-width: 399px) {
+    @media (max-width: 720px) {
         .footer h4 img {
             width: 40%;
             height: 40%;
